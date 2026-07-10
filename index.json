@@ -1,0 +1,12 @@
+[
+  {
+    "id": "pokemon",
+    "name": "Pokemon Anime",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzE0ZDU1MzQtNTNlYS00YjNlLWE2ODktZmFmNDYzMTBlZTBmXkEyXkFqcGc@._V1_SX250.jpg"
+  },
+  {
+    "id": "conan",
+    "name": "Detective Conan",
+    "poster": "https://link-anh-conan.jpg"
+  }
+]
